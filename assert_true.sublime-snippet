@@ -1,0 +1,7 @@
+<snippet>
+    <content><![CDATA[
+assert ${1:expression} is True
+]]></content>
+    <tabTrigger>atrue</tabTrigger>
+    <scope>source.python</scope>
+</snippet>

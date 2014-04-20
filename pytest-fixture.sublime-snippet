@@ -1,0 +1,9 @@
+<snippet>
+    <content><![CDATA[
+@pytest.fixture(scope='${1:function}')
+def ${2:name}:
+    ${3:body}
+]]></content>
+    <tabTrigger>fixture</tabTrigger>
+    <scope>source.python</scope>
+</snippet>

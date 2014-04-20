@@ -1,0 +1,9 @@
+<snippet>
+    <content><![CDATA[
+@pytest.yield_fixture(scope='${1:function}')
+def ${2:name}:
+    ${3:body}
+]]></content>
+    <tabTrigger>yieldfixture</tabTrigger>
+    <scope>source.python</scope>
+</snippet>

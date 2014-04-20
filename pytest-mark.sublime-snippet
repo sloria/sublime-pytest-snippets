@@ -1,0 +1,7 @@
+<snippet>
+    <content><![CDATA[
+@pytest.mark
+]]></content>
+    <tabTrigger>mark</tabTrigger>
+    <scope>source.python</scope>
+</snippet>

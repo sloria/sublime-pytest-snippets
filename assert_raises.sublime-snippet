@@ -1,0 +1,8 @@
+<snippet>
+    <content><![CDATA[
+with pytest.raises(${1:Exception}):
+    ${2:code}
+]]></content>
+    <tabTrigger>araises</tabTrigger>
+    <scope>source.python</scope>
+</snippet>

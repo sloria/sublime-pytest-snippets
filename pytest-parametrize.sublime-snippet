@@ -1,0 +1,7 @@
+<snippet>
+    <content><![CDATA[
+@pytest.mark.parametrize('${1:name}', [${2:parameters}])
+]]></content>
+    <tabTrigger>parametrize</tabTrigger>
+    <scope>source.python</scope>
+</snippet>
