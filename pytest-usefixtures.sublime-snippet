@@ -1,0 +1,7 @@
+<snippet>
+    <content><![CDATA[
+@pytest.mark.usefixtures(['${1:fixture}'])
+]]></content>
+    <tabTrigger>usefixtures</tabTrigger>
+    <scope>source.python</scope>
+</snippet>
