@@ -1,7 +1,7 @@
 <snippet>
     <content><![CDATA[
 @pytest.yield_fixture(scope='${1:function}')
-def ${2:name}:
+def ${2:name}(request):
     ${3:body}
 ]]></content>
     <tabTrigger>yieldfixture</tabTrigger>
