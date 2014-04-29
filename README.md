@@ -6,6 +6,16 @@ Sublime Text snippets for testing with [pytest](http://pytest.org/latest/).
 Install
 -------
 
+### Package Control (the easy way)
+
+
+Install Sublime Package Control if you don't have it.
+
+In the command pallette (Cmd-Shift+P on Mac) type 'Install' then press enter to see a list of packages. Search for 'pytest snippets' then press enter to install.
+
+### ...OR copy files to your Packages directory.
+
+
 #### Mac OS X
     git clone git://github.com/sloria/sublime-pytest-snippets.git ~/Library/Application\ Support/Sublime\ Text\ 3/Packages/Python/sublime-pytest-snippets
 
