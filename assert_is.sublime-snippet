@@ -2,6 +2,6 @@
     <content><![CDATA[
 assert ${1:expr1} is ${2:expr2}
 ]]></content>
-    <tabTrigger>_is</tabTrigger>
+    <tabTrigger>ais</tabTrigger>
     <scope>source.python</scope>
 </snippet>
