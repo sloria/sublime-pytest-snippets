@@ -1,0 +1,9 @@
+<snippet>
+    <content><![CDATA[
+with pytest.raises(${1:exception}) as exc:
+    ${2:code}
+assert str(exc) == ${3:string}
+]]></content>
+    <tabTrigger>wpa</tabTrigger>
+    <scope>source.python</scope>
+</snippet>
