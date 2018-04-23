@@ -1,0 +1,8 @@
+<snippet>
+    <content><![CDATA[
+with pytest.raises(${1:exception}):
+    ${2:code}
+]]></content>
+    <tabTrigger>wp</tabTrigger>
+    <scope>source.python</scope>
+</snippet>
