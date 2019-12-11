@@ -15,6 +15,8 @@ In the command pallette (Cmd-Shift+P on Mac) type 'Install' then press enter to 
 
 ### ...OR copy files to your Packages directory.
 
+#### Linux
+    git clone git://github.com/sloria/sublime-pytest-snippets.git  ~/.config/sublime-text-3/Packages/python/sublime-pytest-snippets
 
 #### Mac OS X
     git clone git://github.com/sloria/sublime-pytest-snippets.git ~/Library/Application\ Support/Sublime\ Text\ 3/Packages/Python/sublime-pytest-snippets
